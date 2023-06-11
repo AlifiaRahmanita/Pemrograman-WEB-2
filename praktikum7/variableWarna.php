@@ -1,0 +1,3 @@
+<?php
+ $warna ="merah";
+?>

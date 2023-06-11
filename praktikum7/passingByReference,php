@@ -1,0 +1,9 @@
+<?php
+    function tambahSatu(&$nilai){
+        $nilai++;
+}
+
+$a = 3;
+tambahSatu($a);
+echo $a;
+?>

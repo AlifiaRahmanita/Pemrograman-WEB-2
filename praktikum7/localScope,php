@@ -1,0 +1,9 @@
+<?php
+    $angka = 1;
+        function nilai(){
+    $angka = 2;
+    }
+    
+nilai();
+echo $angka;
+?>
